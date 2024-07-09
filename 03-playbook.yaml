@@ -3,4 +3,4 @@
   tasks:
   - name: print hello world
     ansible.builtin.debug:
-    msg: "hello this is Akula"
+     msg: "hello this is Akula"
