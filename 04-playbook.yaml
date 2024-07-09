@@ -10,4 +10,4 @@
       msg: "hello world"
    - name: print in varaibles
      ansible.builtin.debug:
-      msg: "helloworld" {{COURSE}}, trainer is {{trainer}}, duration is {{DURATION}}
+      msg: "helloworld" {{COURSE}}, trainer is {{trainer}}, duration is {{DURATION}}"
