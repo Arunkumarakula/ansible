@@ -6,8 +6,8 @@
    DURAION: 3mths
   tasks:
   - name: print helloworld
-     ansible.builtin.debug:
-      msg: "hello world"
+    ansible.builtin.debug:
+     msg: "hello world"
   - name: print in varaibles
-     ansible.builtin.debug:
-      msg: "helloworld {{COURSE}}, trainer is {{TRAINER}}, duration is {{DURATION}}"
+    ansible.builtin.debug:
+     msg: "hello,i am learning {{COURSE}}, trainer is {{TRAINER}}, duration is {{DURATION}}"
