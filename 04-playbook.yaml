@@ -1,9 +1,9 @@
 - name:  variable in ansible
   hosts: mongodb
   vars:
-  CORSE: Devops
+  COURSE: Devops
   trainer: arun
-  DURRION: 3mths
+  DURAION: 3mths
   tasks:
    - name: print helloworld
      ansible.builtin.debug:
