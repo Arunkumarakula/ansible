@@ -3,7 +3,7 @@
   vars:
    COURSE: Devops
    TRAINER: arun
-   DURAION: 3mths
+   DURATION: 50hrs
   tasks:
   - name: print helloworld
     ansible.builtin.debug:
