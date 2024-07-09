@@ -1,0 +1,14 @@
+- name: arun
+  dob: 21/05/2001
+  #this is map
+  adress:
+   city: HYD
+   country: INDIA
+   area: RAMNAGAR
+#list of adresses
+- type: premanent
+  city: HYD
+  country: INDIA
+- type: current #LIST OF ADDRESSES & PERSONS WE CAN USE -
+  city: MUMBAI
+  country: INDIA 
