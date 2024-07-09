@@ -7,8 +7,8 @@
    area: RAMNAGAR
 #list of adresses
  - type: premanent
-   city: HYD
-   country: INDIA
+    city: HYD
+    country: INDIA
  - type: current #LIST OF ADDRESSES & PERSONS WE CAN USE -
-   city: MUMBAI
-   country: INDIA 
+    city: MUMBAI
+    country: INDIA 
